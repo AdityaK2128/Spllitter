@@ -1,5 +1,6 @@
 # TheSplitter
 A Basic app to Split the Total bill among members with Tip Percentage Added
-<h1> 
-The Splitter
-</h1>
+
+<p>
+Split the Total bill after adding the Tip Percentage among the number of Members 
+</p>
